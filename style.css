@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(61, 61, 61);
+}
+
+.button{
+    margin: 0;
+    width: 5rem;
+    height: 2rem;
+    border: 3px solid;
+    background-color: rgb(97, 97, 97);
+    transform: translate(1299, 1046);
+    position: absolute;
+}
+.button:focus{
+    outline: none;
+}
